@@ -208,4 +208,23 @@ There is no relationship between Engagement Index and Run-time shown by r2_value
 ''')
 ```
 
-Feel free to adapt this documentation to your specific needs!
+***
+## Recommendations
+
+**1. Network Performance:**
+   - All bars crossed the blue dotted line, indicating better performance.
+   - **Recommendation:** Invest more resources in networks with higher engagement indices, especially network53 and network55.
+
+**2. Broadcast vs. Cable:**
+   - Broadcast slightly outperforms the average, while cable TV is below average.
+   - **Recommendation:** Focus on enhancing content strategies for broadcast channels to maintain and potentially improve viewer engagement.
+
+**3. Daypart Viewer Engagement:**
+   - Unusually, overnight and latefringe viewers have better engagement.
+   - **Recommendation:** Explore and capitalize on factors contributing to higher engagement during overnight and latefringe periods.
+
+**4. Run Time and Engagement Index:**
+   - No significant relationship between run time and engagement index.
+   - **Recommendation:** Emphasize content quality over duration; run time does not strongly influence viewer engagement.
+
+In summary, allocate resources strategically by prioritizing networks with higher engagement, optimizing broadcast content strategies, exploring opportunities during overnight and latefringe periods, and emphasizing content quality irrespective of run time.
